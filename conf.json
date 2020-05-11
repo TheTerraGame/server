@@ -1,0 +1,12 @@
+
+{
+	"maxplayers" : 1000,
+	"bind" : "45.90.34.60",
+	"name" : "test", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 500.0,
+	"announce" : false,
+	"csharp" : "true",
+	"port": 22005,
+	"voice-chat": true
+}
